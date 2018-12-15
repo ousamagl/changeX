@@ -18,3 +18,13 @@ Once clicking on the exchange ad, details of the exchangeable item are shown as 
 What about the user profile?
 The user profile contains the number of likes and dislikes attributed to him in his former exchange processes, this option helps other users to know if the user concerned  is trustworthy or not.  In addition to that, the user has the ability to update his profile information, and his profile picture and to check the history of his exchange processes to keep track of all his data.
 Our team is determined to update more exchange categories and to add more features, in addition to that, soon we’ll adopt artificial intelligent features in order to upgrade the UX part in our application, stay tuned for more great stuff!
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+Promotion video
+https://www.youtube.com/watch?v=NW2ZNin3Ugw&feature=youtu.be&fbclid=IwAR1auSbHF7U4EfBaJtP_LHKBHBWsAEJ8X2bEsalgmmVM5c_iPBGiHBVn_t0
+----------------------------------------------------------------------------------------------------------------------------------------
+
+| changeX-files/changeX.apk | K3B | changeX, the first Tunisian network allowing you to exchange books, videogames, multimedia, collectibles and sport equipements | Apache License 2.0 | Tunisia | https://github.com/ousamagl |
+
