@@ -28,3 +28,6 @@ https://www.youtube.com/watch?v=NW2ZNin3Ugw&feature=youtu.be&fbclid=IwAR1auSbHF7
 
 | changeX-files/changeX.apk | K3B | changeX, the first Tunisian network allowing you to exchange books, videogames, multimedia, collectibles and sport equipements | Apache License 2.0 | Tunisia | https://github.com/ousamagl |
 
+----------------------------------------------------------------------------------------------------------------------------------------existing acounts for test
+  login: oussama.galmami@gmail.com pasword:123456789
+  login: marwene8@live.com  password:123456789
